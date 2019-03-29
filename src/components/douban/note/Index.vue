@@ -140,7 +140,7 @@
                     </el-upload>
                     <a v-else href="" id="A_91"><img width="24" height="24" :src='avatar' id="IMG_92" /></a>
                     <a href="" id="A_93" :contenteditable="edit" v-html='nickname'></a> <span id="SPAN_94" :contenteditable="edit" v-html='time'></span>
-                    <div class='watermark'>什么是真相？fakes.netlify.com</div>
+                    <div class='watermark'></div>
                   </div>
                 </div>
                 <div id="DIV_95">
@@ -240,7 +240,7 @@
                     <a href="https://www.douban.com/gallery/topic/55558/?from=hot_topic_note" id="A_187">尝一口就印象深刻的食物</a> <span id="SPAN_188">40376人浏览</span>
                   </li>
                   <li id="LI_189">
-                    <a href="https://www.douban.com/gallery/topic/14229/?from=hot_topic_note" id="A_190" class='watermark'>什么是真相？fakes.netlify.com</a> <span id="SPAN_191">新话题 · 297797人浏览</span>
+                    <a href="https://www.douban.com/gallery/topic/14229/?from=hot_topic_note" id="A_190" class='watermark'></a> <span id="SPAN_191">新话题 · 297797人浏览</span>
                   </li>
                 </ul>
               </div>

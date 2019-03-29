@@ -132,7 +132,7 @@
                           </span></div>
                         <div>
                           <div class="ContentItem-time"><a target="_blank"><span>编辑于 <span :contenteditable='edit' v-html='time'></span></span></a></div>
-                          <div class="watermark">什么是真相？fakes.netlify.com</div>
+                          <div class="watermark"></div>
                         </div>
                         <div>
                           <div class="ContentItem-actions Sticky RichContent-actions is-bottom"><span><button class="Button VoteButton VoteButton--up" aria-label="赞同" type="button"><span style="display: inline-flex; align-items: center;">​<svg-icon icon-name='agree' class-name="Zi Zi--TriangleUp VoteButton-TriangleUp"></svg-icon></span>赞同 <span :contenteditable='edit' v-html='votesNumberButton'></span></button><button class="Button VoteButton VoteButton--down" aria-label="反对" type="button"><span style="display: inline-flex; align-items: center;">​<svg-icon icon-name='disagree' class-name="Zi Zi--TriangleDown"></svg-icon></span></button></span><button class="Button ContentItem-action Button--plain Button--withIcon Button--withLabel" type="button"><span style="display: inline-flex; align-items: center;">​<svg-icon icon-name='comment' class-name="Zi Zi--Comment Button-zi"></svg-icon></span><span :contenteditable='edit' v-html='commentNumber'></span> 条评论</button>

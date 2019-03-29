@@ -182,7 +182,7 @@
                     <div class="up-name">
                       <div class="upname" v-html='upname' :contenteditable="edit" @input="changeupname">愤怒的鸡儿</div>
                       <div class="up-type" v-html='uptype' :contenteditable="edit" @input="changeuptype">UP主</div>
-                      <span class="watermark">什么是真相？fakes.netlify.com</span>
+                      <span class="watermark"></span>
                     </div>
                     <div class="up-time" v-html='time' :contenteditable="edit" @input="changetime">2019年03月10日 18:31:37</div>
                   </div>

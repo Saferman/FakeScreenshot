@@ -22,7 +22,7 @@
             <ul id="UL_5">
               <li id="LI_6">
                 <a href="javascript:;" id="A_7">查看完整热搜榜»</a>
-                <span class="watermark">什么是真相？fakes.netlify.com</span>
+                <span class="watermark"></span>
               </li>
               <ul id="UL_8">
                 <li id="LI_9">

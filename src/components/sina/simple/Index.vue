@@ -57,7 +57,7 @@
           </div>
           <div id="DIV_23">
             <a name="4316491173741841" href="/6423850204/H6V0FfHqh?from=page_1005056423850204_profile&amp;wvr=6&amp;mod=weibotime" :contenteditable="edit" v-html='time' id="A_24"></a>&nbsp;来自&nbsp;<a href="http://vip.weibo.com/prividesc?priv=1006&amp;from=feed" id="A_25" :contenteditable="edit" v-html='from'></a>
-            <div id="watermark">什么是真相？fakes.netlify.com</div>
+            <div id="watermark"></div>
           </div>
           <div id="DIV_26">
           </div>

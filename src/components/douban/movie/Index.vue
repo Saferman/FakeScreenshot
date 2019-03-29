@@ -87,7 +87,7 @@
                       <br id="BR_93" />
                       <span id="SPAN_94">上映日期:</span><span :contenteditable="edit" v-html='releaseDate'></span>
                       <br id="BR_98" />
-                      <span id="SPAN_99">片长:</span> <span id="SPAN_100"><span :contenteditable="edit" v-html='length'></span>分钟<span id="watermark">什么是真相？fakes.netlify.com</span></span>
+                      <span id="SPAN_99">片长:</span> <span id="SPAN_100"><span :contenteditable="edit" v-html='length'></span>分钟<span id="watermark"></span></span>
                       <br id="BR_101" />
                       <span id="SPAN_102">又名:</span><span :contenteditable="edit" v-html='alias'></span>
                       <br id="BR_103" />

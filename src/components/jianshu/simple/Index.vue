@@ -111,7 +111,7 @@
             <div id="DIV_86">
               赞赏支持
             </div>
-            <div class='watermark'>什么是真相？fakes.netlify.com</div>
+            <div class='watermark'></div>
             <div id="DIV_87">
               <ul id="UL_88">
               </ul>
